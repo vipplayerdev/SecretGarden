@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "834861367261",
+    "firebase_url": "https://secretgarden-4ec49-default-rtdb.firebaseio.com",
+    "project_id": "secretgarden-4ec49",
+    "storage_bucket": "secretgarden-4ec49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834861367261:android:713d2116c09e4e39950034",
+        "android_client_info": {
+          "package_name": "com.qwu.secretgarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834861367261-eoobp37pkom3n06elfchjfivpdvs7l26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qwu.secretgarden",
+            "certificate_hash": "0c8a15b83ad2bbd8611af7f880f4e01c26d4276c"
+          }
+        },
+        {
+          "client_id": "834861367261-5ct47mivr1uj8rdljm1p5ovo42hi56fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaZADXmhVyz0tU2uIBuufzzDW586TK-KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834861367261-5ct47mivr1uj8rdljm1p5ovo42hi56fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

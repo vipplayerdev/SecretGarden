@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SecretGarden</string>
+    <string name="slogan">A Family Garden, Record With Your Family</string>
+    <string name="forgetPassword">Forget Password</string>
+    <string name="signUp">Sign Up</string>
+    <string name="account">Account</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="familyCode">Family Code</string>
+</resources>
